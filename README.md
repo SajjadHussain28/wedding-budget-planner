@@ -4,7 +4,7 @@ A single-file, offline-friendly wedding budget planner: budget items & vendors, 
 
 ## 🔗 Live demo
 
-**<https://wedding-budget-planner.pages.dev/>**
+**<https://wedding-budget-planner-6p0.pages.dev/>**
 
 Hosted on Cloudflare Pages (project `wedding-budget-planner`).
 
